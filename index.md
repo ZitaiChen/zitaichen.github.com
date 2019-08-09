@@ -37,3 +37,40 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 -->
+
+
+# ABOUT
+I am Zitai, a second year Master student at the [Schoole of Data and Computer Science](http://sdcs.sysu.edu.cn/), [Sun Yat-sen University (SYSU)](http://www.sysu.edu.cn/2012/en/index.htm). 
+
+I work on Graph Mining, Tensor Method, Machine Learning and Deep Learning.  
+My advisors are [Zibin Zheng](http://www.zibinzheng.com/home) and [Chuan Chen](https://chuanchen.weebly.com/)
+
+I am looking for a research position, and I am more willing to pursue a PhD. If you are interested in my works, you are wellcome to contact me.
+
+You can contact me through chenzt25 * mail2.sysu.edu.cn, or 529, Supercomputer Center, Sun Yat-sen University, Guangzhou, China.
+
+[Full CV](https://zitaichen.github.io/CV.pdf)
+
+# EDUCATION
+
+#### SUN YAT-SEN UNIVERSITY
+Master student, Computational Mathematics, 2017 till now
+#### CENTRAL SOUTH UNIVERSITY
+BS, Mathematics, 2013-2017
+
+# SELECTED PAPERS
+
+* **Variational Graph Embedding and Clustering with Laplacian Eigenmaps.**  
+ **Zitai Chen**, Chuan Chen, Zong Zhang, Zibin Zheng, Qingsong Zou (2019).  
+ In IJCAI 2019. 
+* **[SINE: Side Information Network Embedding](https://link.springer.com/chapter/10.1007\%2F978-3-030-18576-3_41)**  
+ **Zitai Chen**\*, Tongzhao Cai\*, Chuan Chen, Zibin Zheng, Guohui Ling (2019).  
+ In DASFAA 2019.
+* **[Tensor Decomposition for Multilayer Networks Clustering](https://aaai.org/ojs/index.php/AAAI/article/view/4211)**      
+ **Zitai Chen**, Chuan Chen, Zibin Zheng, Yi Zhu (2019).  
+ In AAAI 2019. 
+
+
+
+
+
