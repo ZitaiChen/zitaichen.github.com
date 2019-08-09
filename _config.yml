@@ -1,1 +1,24 @@
 theme: jekyll-theme-minimal
+site:
+  logo: 1
+  title: Zitai Chen | SYSU
+  keywords: keywords
+  description: description
+
+banner: 网站上部 - 导航下面banner 区域样式
+  title: 自定义显示标题
+  description: 副标题
+  background_image: 背景图片
+
+author: 网站侧边栏的作者信息
+  avatar: 头像图片地址
+  nick: 昵称
+  description: 个人简介
+
+menu: 导航菜单
+  首页: /
+  项目: /project/index.html
+  文章: /post/index.html
+  关于我: /about.html
+  Minimal: /project/2016/04/28/hexo-minimal.html
+
