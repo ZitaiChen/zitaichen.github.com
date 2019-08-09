@@ -7,15 +7,5 @@ site:
 
 
 author: Zitai Chen
-  avatar: /portrait.jpg
-  description: 个人简介
-  Contact: chenzt25@mail2.sysu.edu.cn
-  Address: 529 Supercomputer Center, Sun Yat-sen University, Guangzhou, China.
 
-menu: 
-  Zitai Chen: /
-  CV: /CV.pdf
-  文章: /post/index.html
-  关于我: /about.html
-  Minimal: /project/2016/04/28/hexo-minimal.html
 
