@@ -5,19 +5,16 @@ site:
   keywords: keywords
   description: description
 
-banner: 网站上部 - 导航下面banner 区域样式
-  title: 自定义显示标题
-  description: 副标题
-  background_image: 背景图片
 
-author: 网站侧边栏的作者信息
-  avatar: 头像图片地址
-  nick: 昵称
+author: Zitai Chen
+  avatar: /portrait.jpg
   description: 个人简介
+  Contact: chenzt25@mail2.sysu.edu.cn
+  Address: 529 Supercomputer Center, Sun Yat-sen University, Guangzhou, China.
 
-menu: 导航菜单
-  首页: /
-  项目: /project/index.html
+menu: 
+  Zitai Chen: /
+  CV: /CV.pdf
   文章: /post/index.html
   关于我: /about.html
   Minimal: /project/2016/04/28/hexo-minimal.html
