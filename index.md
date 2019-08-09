@@ -47,7 +47,7 @@ My advisors are [Zibin Zheng](http://www.zibinzheng.com/home) and [Chuan Chen](h
 
 I am looking for a research position, and I am more willing to pursue a PhD. If you are interested in my works, you are wellcome to contact me.
 
-You can contact me through chenzt25 * mail2.sysu.edu.cn, or 529, Supercomputer Center, Sun Yat-sen University, Guangzhou, China.
+You can contact me through **chenzt25@mail2.sysu.edu.cn**, or 529, Supercomputer Center, Sun Yat-sen University, Guangzhou, China.
 
 [Full CV](https://zitaichen.github.io/CV.pdf)
 
