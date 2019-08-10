@@ -1,9 +1,9 @@
 theme: jekyll-theme-minimal
-site: 
-  logo: /portrait.jpg
-  title: Zitai Chen | SYSU
-  keywords: Homepage, CV, Academic, Tensor Method
-  description: Homepage of Zitai Chen
+title: Zitai Chen | SYSU
+logo: /portrait.jpg
+
+keywords: Homepage, CV, Academic, Tensor Method
+description: Homepage of Zitai Chen
 
 
 author: Zitai Chen
