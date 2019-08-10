@@ -53,7 +53,7 @@ You can contact me through **chenzt25@mail2.sysu.edu.cn**, or 529, Supercomputer
 
 # News
 
-I will attend IJCAI 2019 in Venetian, Macao SAR, China. My presentation is on the morning of Wednesday, August 14.
+I will attend [IJCAI 2019](https://ijcai19.org/) in Venetian, Macao SAR, China. My presentation is on the morning of Wednesday, August 14.
 
 # EDUCATION
 
@@ -68,7 +68,7 @@ I will attend IJCAI 2019 in Venetian, Macao SAR, China. My presentation is on th
  
 # SELECTED PAPERS
 
-* **Variational Graph Embedding and Clustering with Laplacian Eigenmaps.**  
+* **Variational Graph Embedding and Clustering with Laplacian Eigenmaps**  
  **Zitai Chen**, Chuan Chen, Zong Zhang, Zibin Zheng, Qingsong Zou (2019).  
  In IJCAI 2019. 
 * **[SINE: Side Information Network Embedding](https://link.springer.com/chapter/10.1007\%2F978-3-030-18576-3_41)**  
@@ -78,7 +78,10 @@ I will attend IJCAI 2019 in Venetian, Macao SAR, China. My presentation is on th
  **Zitai Chen**, Chuan Chen, Zibin Zheng, Yi Zhu (2019).  
  In AAAI 2019. 
 
+# Presentation
 
-
-
+**Tensor decomposition for Multilayer Networks Clustering**
+In AAAI 2019, Honolulu.
+**Block term decomposition for Multilayer Networks Clustering**
+In SIAM-ALA 2018, Hong Kong SAR.
 
