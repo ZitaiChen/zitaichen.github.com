@@ -51,13 +51,18 @@ You can contact me through **chenzt25@mail2.sysu.edu.cn**, or 529, Supercomputer
 
 [Full CV](https://zitaichen.github.io/CV.pdf)
 
+# News
+
+I will attend IJCAI 2019 in Venetian, Macao SAR, China. My presentation is on the morning of Wednesday, August 14.
+
 # EDUCATION
-
-#### SUN YAT-SEN UNIVERSITY
-Master student, Computational Mathematics, 2017 till now
-#### CENTRAL SOUTH UNIVERSITY
-BS, Mathematics, 2013-2017
-
+<dl>
+ <dt>SUN YAT-SEN UNIVERSITY</dt>
+ <dd>Master student, Computational Mathematics, 2017 till now</dd>
+ <dt>CENTRAL SOUTH UNIVERSITY</dt>
+ <dd>BS, Mathematics, 2013-2017</dd>
+<dl/>
+ 
 # SELECTED PAPERS
 
 * **Variational Graph Embedding and Clustering with Laplacian Eigenmaps.**  
