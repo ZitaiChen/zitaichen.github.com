@@ -42,8 +42,8 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 # ABOUT
 I am Zitai, a second year Master student at the [Schoole of Data and Computer Science](http://sdcs.sysu.edu.cn/), [Sun Yat-sen University (SYSU)](http://www.sysu.edu.cn/2012/en/index.htm). 
 
-I work on Graph Mining, Tensor Method, Machine Learning and Deep Learning.  
-My advisors are [Zibin Zheng](http://www.zibinzheng.com/home) and [Chuan Chen](https://chuanchen.weebly.com/)
+I work on **Graph Mining**, **Tensor Method**, **Statistical Machine Learning** and **Deep Learning**.  
+My advisors are [Zibin Zheng](http://www.zibinzheng.com/home) and [Chuan Chen](https://chuanchen.weebly.com/).
 
 I am looking for a research position, and I am more willing to pursue a PhD. If you are interested in my works, you are wellcome to contact me.
 
@@ -56,12 +56,15 @@ You can contact me through **chenzt25@mail2.sysu.edu.cn**, or 529, Supercomputer
 I will attend IJCAI 2019 in Venetian, Macao SAR, China. My presentation is on the morning of Wednesday, August 14.
 
 # EDUCATION
+
 <dl>
  <dt>SUN YAT-SEN UNIVERSITY</dt>
- <dd>Master student, Computational Mathematics, 2017 till now</dd>
+ <dd>Master student, Computational Mathematics, 2017 till now.</dd>
  <dt>CENTRAL SOUTH UNIVERSITY</dt>
- <dd>BS, Mathematics, 2013-2017</dd>
-<dl/>
+ <dd>BS, Mathematics, 2013-2017.</dd>
+</dl>
+ 
+ 
  
 # SELECTED PAPERS
 
