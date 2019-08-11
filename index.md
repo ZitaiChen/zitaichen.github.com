@@ -45,9 +45,9 @@ I am Zitai, a second year Master student at the [Schoole of Data and Computer Sc
 I work on **Graph Mining**, **Tensor Method**, **Statistical Machine Learning** and **Deep Learning**.  
 My advisors are [Zibin Zheng](http://www.zibinzheng.com/home) and [Chuan Chen](https://chuanchen.weebly.com/).
 
-I am looking for a research position, and I am more willing to pursue a PhD. If you are interested in my works, you are wellcome to contact me.
+I am looking for a research position, and I am more willing to pursue a PhD. If you are interested in my works, you are welcome to contact me.
 
-You can contact me through **chenzt25@mail2.sysu.edu.cn**, or 529, Supercomputer Center, Sun Yat-sen University, Guangzhou, China.
+You can contact me through **chenzt25@mail2.sysu.edu.cn**, or Room 529, Supercomputer Center, Sun Yat-sen University, Guangzhou, China.
 
 [Full CV](https://zitaichen.github.io/CV.pdf)
 
