@@ -68,7 +68,7 @@ I will attend [IJCAI 2019](https://ijcai19.org/) in Venetian, Macao SAR, China. 
  
 # SELECTED PAPERS
 
-* **Variational Graph Embedding and Clustering with Laplacian Eigenmaps**  
+* **[Variational Graph Embedding and Clustering with Laplacian Eigenmaps](https://www.ijcai.org/proceedings/2019/297)**  
  **Zitai Chen**, Chuan Chen, Zong Zhang, Zibin Zheng, Qingsong Zou (2019).  
  In IJCAI 2019. 
 * **[SINE: Side Information Network Embedding](https://link.springer.com/chapter/10.1007\%2F978-3-030-18576-3_41)**  
@@ -80,6 +80,8 @@ I will attend [IJCAI 2019](https://ijcai19.org/) in Venetian, Macao SAR, China. 
 
 # Presentation
 
+**Vatitional Graph Embedding and Clustering with Laplacian Eigenmaps**
+In IJCAI 2019, Macau SAR.
 **Tensor decomposition for Multilayer Networks Clustering**
 In AAAI 2019, Honolulu.
 **Block term decomposition for Multilayer Networks Clustering**
