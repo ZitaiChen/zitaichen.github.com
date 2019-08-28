@@ -80,10 +80,10 @@ I will attend [IJCAI 2019](https://ijcai19.org/) in Venetian, Macao SAR, China. 
 
 # Presentation
 
-**Vatitional Graph Embedding and Clustering with Laplacian Eigenmaps**
-In IJCAI 2019, Macau SAR.
-**Tensor decomposition for Multilayer Networks Clustering**
-In AAAI 2019, Honolulu.
-**Block term decomposition for Multilayer Networks Clustering**
-In SIAM-ALA 2018, Hong Kong SAR.
+* **Vatitional Graph Embedding and Clustering with Laplacian Eigenmaps**
+In IJCAI 2019, Macau SAR.   
+* **Tensor decomposition for Multilayer Networks Clustering**
+In AAAI 2019, Honolulu.  
+* **Block term decomposition for Multilayer Networks Clustering**
+In SIAM-ALA 2018, Hong Kong SAR.  
 
